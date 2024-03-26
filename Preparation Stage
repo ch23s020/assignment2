@@ -1,0 +1,13 @@
+Understand the Inaturalist data
+partition the data.
+build the cnn over partitioned data
+validate using validation data.
+implement wandb and find best hyperparameters.
+Use the test data and report final accuracy over test data.
+
+PartB:-
+Read about different models avialable
+choose the final model    
+fine tune it according the need.
+
+submit
