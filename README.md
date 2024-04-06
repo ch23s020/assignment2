@@ -3,9 +3,10 @@ CS6910
 
 Please use the following input format for running the script and passing the hyperparameters. Feel free to choose the difeerent values of hyperparameters. from following:
 
-from google colab:- !python debug.py --num_filters 32 64 --filter_size 3 3 --activation ReLU --use_batchnorm 1 --use_dropout 0 --lr 0.001 --num_epochs 10 --filter_org same --data_augmentation yes --batch_size 64 --num_neurons 128 --learning_algorithm adam
+from google colab:- !python partA_main.py --num_filters 32 64 --filter_size 3 3 --activation ReLU --use_batchnorm 1 --use_dropout 0 --lr 0.001 --num_epochs 10 --filter_org same --data_augmentation yes --batch_size 64 --num_neurons 128 --learning_algorithm adam
 
-from command prompt:- 
+from command prompt:- python partA_main.py --num_filters 32 64 --filter_size 3 3 --activation ReLU --use_batchnorm 1 --use_dropout 0 --lr 0.001 --num_epochs 10 --filter_org same --data_augmentation yes --batch_size 64 --num_neurons 128 --learning_algorithm Adam
+
 
 
 'hyperparameters': {
