@@ -1,6 +1,12 @@
 # assignment2
-CS6910:- CNN o i_naturalist dataset
 
+**Wandb Report Link:-**
+
+
+
+
+CS6910:- CNN o i_naturalist dataset
+**Part A:-**
 The data is loaded on google drive unzipped and used directly under the code under data loading stage.
 
 If the .py file gives any challenges please refer to google notebook version also committed here
@@ -34,10 +40,6 @@ For Q1 Calculation part pdf file is attached as wand report are not showing the 
  		 
 
 
-
-
-
-Command prompt input;- python main2.py --num_filters 32,64,128,256 --filter_size "(3,3),(3,3),(3,3),(3,3)" --activation ReLU --use_batchnorm 1 --use_dropout 0 --lr 0.001 --num_epochs 10 --data_augmentation yes --batch_size 64
-
-If using google colab:- !python main2.py --num_filters "32,64,128,256" --filter_size "[(3,3),(3,3),(3,3),(3,3)]" --activation ReLU --use_batchnorm 1 --use_dropout 0 --lr 0.001 --num_epochs 10 --data_augmentation yes --batch_size 64
+**Part B:-**
+For Part B used Google Colab as directly using torchvision to load the models and loading the data from drive as done in part a
 
