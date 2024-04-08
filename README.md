@@ -2,7 +2,7 @@
 
 **Wandb Report Link:-**
 
-
+https://wandb.ai/ch23s020/Assignment2_CNN/reports/Assignment-2-CNN--Vmlldzo3NDYyMzE0
 
 
 CS6910:- CNN o i_naturalist dataset
