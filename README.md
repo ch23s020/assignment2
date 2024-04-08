@@ -1,5 +1,9 @@
 # assignment2
-CS6910
+CS6910:- CNN o i_naturalist dataset
+
+The data is loaded on google drive unzipped and used directly under the code under data loading stage.
+
+If the .py file gives any challenges please refer to google notebook version also committed here
 
 Please use the following input format for running the script and passing the hyperparameters. Feel free to choose the difeerent values of hyperparameters. from following:
 
@@ -22,7 +26,9 @@ from command prompt:- python partA_main.py --num_filters 32 64 --filter_size 3 3
 		 num_neurons'                 : {'values' :[20,32,64,128,512,1024] },
 		'learning_algorithm'          : {'values' :['adam', 'sgd'] },
   		
- 		
+PartA_main_Q1 or google colab notebook contains all the code except logging test accuracy. To avoid any confusion only logging test accuracy for the best hyperparameter ran separately through differently notebook but under the same wandb project.
+
+For Q1 Calculation part pdf file is attached as wand report are not showing the proper values. Please refer the pdf file for the same.
 		
 		
  		 
